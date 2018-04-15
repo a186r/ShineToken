@@ -1,8 +1,8 @@
 
 # ShineToken
-用于基于区块链互助保险内部流通的Token
+用于互助保险内部流通的Token
 
-# use it
+# using
 1. Edit your truffle.js
 
 2. Compile the token and install
